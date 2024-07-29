@@ -1,0 +1,1421 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Class.html",
+      "PackagePath": "staticwebassets\\Class.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Support2\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\css\\main.css",
+      "PackagePath": "staticwebassets\\Support2\\css\\main.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\Support2\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\fonts.css",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\fonts.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_bold_font.woff",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_bold_font.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_bold_font.woff2",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_bold_font.woff2"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_book_font.woff",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_book_font.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_book_font.woff2",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_book_font.woff2"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_extra_black_font.woff",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_extra_black_font.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_extra_black_font.woff2",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_extra_black_font.woff2"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_heavy_font.woff",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_heavy_font.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_heavy_font.woff2",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_heavy_font.woff2"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_light_bt.woff",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_light_bt.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_light_bt.woff2",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_light_bt.woff2"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_light_font.woff",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_light_font.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_light_font.woff2",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_light_font.woff2"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_medium_bt.woff",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_medium_bt.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_medium_bt.woff2",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_medium_bt.woff2"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_medium_condensed_bt.woff",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_medium_condensed_bt.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\futura_medium_condensed_bt.woff2",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\futura_medium_condensed_bt.woff2"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\fonts\\generator_config.txt",
+      "PackagePath": "staticwebassets\\Support2\\fonts\\generator_config.txt"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\Support2\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Support2\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Support2\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Support2\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Support2\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\icomoon\\icomoon.css",
+      "PackagePath": "staticwebassets\\Support2\\icomoon\\icomoon.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\Support2\\icomoon\\selection.json"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\ftpost.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\ftpost.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\largeimg.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\largeimg.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\mainlogo.png",
+      "PackagePath": "staticwebassets\\Support2\\images\\mainlogo.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\model.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\model.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\models.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\models.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\post1.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\post1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\post2.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\post2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\post3.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\post3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\postimg1.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\postimg1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\postimg2.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\postimg2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\postimg3.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\postimg3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\relationship1.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\relationship1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\relationship2.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\relationship2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\relationship3.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\relationship3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\subscribtionimg.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\subscribtionimg.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\summary1.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\summary1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\summary2.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\summary2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\images\\summary3.jpg",
+      "PackagePath": "staticwebassets\\Support2\\images\\summary3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\index.html",
+      "PackagePath": "staticwebassets\\Support2\\index.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Support2\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\Support2\\js\\modernizr.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Support2\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\js\\script.js",
+      "PackagePath": "staticwebassets\\Support2\\js\\script.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support2\\readme.txt",
+      "PackagePath": "staticwebassets\\Support2\\readme.txt"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\404.html",
+      "PackagePath": "staticwebassets\\Support\\404.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Support\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\Support\\READ-ME.txt"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\cart.html",
+      "PackagePath": "staticwebassets\\Support\\cart.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\chackout.html",
+      "PackagePath": "staticwebassets\\Support\\chackout.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\contact.html",
+      "PackagePath": "staticwebassets\\Support\\contact.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Support\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\css\\style.css",
+      "PackagePath": "staticwebassets\\Support\\css\\style.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\index.html",
+      "PackagePath": "staticwebassets\\Support\\index.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\js\\main.js",
+      "PackagePath": "staticwebassets\\Support\\js\\main.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Support\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Support\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\Support\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\Support\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Support\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\Support\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Support\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\Support\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Support\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Support\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Support\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Support\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\shop-detail.html",
+      "PackagePath": "staticwebassets\\Support\\shop-detail.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\shop.html",
+      "PackagePath": "staticwebassets\\Support\\shop.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\Support\\testimonial.html",
+      "PackagePath": "staticwebassets\\Support\\testimonial.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\chocolat\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\close.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\chocolat\\images\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\fullscreen-black.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\chocolat\\images\\fullscreen.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\fullscreen.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\chocolat\\images\\left.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\left.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\chocolat\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\loader.gif"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\chocolat\\images\\right.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\right.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\assets\\vendor\\masonry\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\masonry\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\icomoon\\icomoon.css",
+      "PackagePath": "staticwebassets\\icomoon\\icomoon.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\icomoon\\selection.json"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner-large-image1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-large-image1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner-large-image2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-large-image2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner-large-image3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-large-image3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\billboard-bg.png",
+      "PackagePath": "staticwebassets\\images\\billboard-bg.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\billboard-img.jpg",
+      "PackagePath": "staticwebassets\\images\\billboard-img.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-lg.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\commentor-1.jpg",
+      "PackagePath": "staticwebassets\\images\\commentor-1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\commentor-2.jpg",
+      "PackagePath": "staticwebassets\\images\\commentor-2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\commentor-3.jpg",
+      "PackagePath": "staticwebassets\\images\\commentor-3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item-lg1.jpg",
+      "PackagePath": "staticwebassets\\images\\item-lg1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item-lg2.jpg",
+      "PackagePath": "staticwebassets\\images\\item-lg2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item-lg3.jpg",
+      "PackagePath": "staticwebassets\\images\\item-lg3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item1.jpg",
+      "PackagePath": "staticwebassets\\images\\item1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item2.jpg",
+      "PackagePath": "staticwebassets\\images\\item2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item3.jpg",
+      "PackagePath": "staticwebassets\\images\\item3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item4.jpg",
+      "PackagePath": "staticwebassets\\images\\item4.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item5.jpg",
+      "PackagePath": "staticwebassets\\images\\item5.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item6.jpg",
+      "PackagePath": "staticwebassets\\images\\item6.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item7.jpg",
+      "PackagePath": "staticwebassets\\images\\item7.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\item8.jpg",
+      "PackagePath": "staticwebassets\\images\\item8.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\login-img.jpg",
+      "PackagePath": "staticwebassets\\images\\login-img.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\product-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\product-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\product-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\product-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item4.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\product-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item5.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\product-item6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item6.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\product-item7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item7.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\product-item8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item8.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\product-item9.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item9.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\reviwer1.jpg",
+      "PackagePath": "staticwebassets\\images\\reviwer1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\reviwer2.jpg",
+      "PackagePath": "staticwebassets\\images\\reviwer2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\reviwer3.jpg",
+      "PackagePath": "staticwebassets\\images\\reviwer3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\teacher1.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher1.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\teacher2.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher2.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\teacher3.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher3.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\teacher4.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher4.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\teacher5.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher5.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\teacher6.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher6.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\teacher7.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher7.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\images\\teacher8.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher8.jpg"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\readme.txt",
+      "PackagePath": "staticwebassets\\readme.txt"
+    },
+    {
+      "Id": "D:\\BTSQL\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
